@@ -1,1 +1,3 @@
 # final_proj
+
+The agriculture sector in India is crucial for the livelihoods of 70% of the population and contributes 20.5% to GDP (Gross Domestic Product). Crop diseases detection is a major challenge for farmers and traditional methods for detection are time-consuming and require specific knowledge and equipment. A ResNet (Residual Network) model using CNN(Convolutional Neural Network) has been proposed as a solution to the limitations of traditional methods and other models such as ANN (Artificial Neural Network) and k-NN (k-NearestNeighbors). The aim is to develop an application using the ResNet model to predict crop diseases based on leaf images, which will be user-friendly for farmers and help improve their crop yields and profits.
